@@ -1,0 +1,8 @@
+# I'm learning python. This is my first attempt. I start with a basic 'Hello, World!" greeting, followed by a request for user input, and some followup output.
+
+print("Hello, World!")
+
+name = input("What is your name? ")
+age = int(input("How old are you? ")) # Convert the input to an integer
+
+print("Hi, " + name + "! Next year, you will be " + str(age + 1) + " years old.")
