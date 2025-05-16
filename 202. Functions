@@ -1,0 +1,35 @@
+# Functions
+# A function in Python is defined using the def keyword, followed by a name, parentheses (), and a colon :. The indented block of code following the colon is the body of the function, where you define what the function does.
+
+# Defining a function: 'def'
+def greet():
+    print("Hello World!")
+
+# Calling the function
+greet()
+
+
+# ----------
+# Functions w/ Parameters
+# Functions can take parameters (also known as arguments), which are values you pass into the function to modify its behavior or output.
+
+# Function w/ a parameter
+name = input("What is your name?")
+
+def greet(name):
+    print(f"Hello, {name}!")
+
+# Calling the function w/ a parameter
+greet(f"{name}")
+
+
+# ----------
+# Functions can also return values using the return statement. This is useful when you want the function to calculate a result and make it available to the rest of your program.
+
+# Function that returns a value
+def add(a, b):
+    return a + b
+
+# Calling the function and storing its result
+result = add(3, 4)
+print(result)  # Output: 7
