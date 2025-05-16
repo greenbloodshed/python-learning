@@ -1,8 +1,8 @@
 # While loop w/ user input
 
-while True:                                                               # This line starts an infinite loop. True is a Boolean value that always evaluates to true, so the loop will continue to run indefinitely unless explicitly broken out of with a break statement.
-    user_input = input("Type something (or ''exit' to stop): ")           # This prompts the user to type something into the console. Whatever the user types is then stored as a string in the variable user_input.
-    if user_input.lower() == "exit":                                      # '.lower' converts the string stored in 'user_input' to lowercase
+while True:                                                               # This line(3) starts an infinite loop. True is a Boolean value that always evaluates to true, so the loop will continue to run indefinitely unless explicitly broken out of with a break statement.
+    user_input = input("Type something (or ''exit' to stop): ")           # This line prompts the user to type something into the console. Whatever the user types is then stored as a string in the variable user_input.
+    if user_input.lower() == "exit":                                      # .lower() converts the string stored in 'user_input' to lowercase
         break
     else:
         print(f"You typed: {user_input}")
