@@ -1,4 +1,7 @@
-## Here are some notes I took on Syntax in the beginning. OH! Another good reference, which I use, was made by one of my favorite podcasters, Jack Rhysider, of DarkNet Diaries. You can find his cheat sheet here: https://www.tunnelsup.com/python-cheat-sheet/ , and I highly recommend Jack's podcast.
+#==================================================================================================================================================================================================================================================
+# Here are some notes I took on Syntax in the beginning.
+# OH! Another good reference, which I use, was made by one of my favorite podcasters, Jack Rhysider, of DarkNet Diaries. You can find his cheat sheet here: https://www.tunnelsup.com/python-cheat-sheet/ , and I highly recommend Jack's podcast.
+#==================================================================================================================================================================================================================================================
 
 # Comments are used to explain code - starting a line w/ '#' indicates a comment.
 
@@ -14,8 +17,7 @@ if True:
 
 
 # Variables:
-''' Variables are created when you assign value to them. Python is dynamically typed.
-    This means you don't need to assign value to them '''
+# Variables are created when you assign value to them. Python is dynamically typed. This means you don't need to assign value to them.
 
 # Example
 x = 5
@@ -30,6 +32,7 @@ int = 1
 float = 1.5
 strings = "This is a string"
 bool = True
+
 
 # Functions
 ''' functions are defined using the 'def' keyword, short for definition. They can take
