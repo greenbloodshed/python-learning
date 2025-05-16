@@ -8,6 +8,7 @@
 
 #--------------------------------------------------------------------------------------------------------------
 # Syntax: 'new_list = [expression for item in iterable if condition]'
+                      [expression for item in iterable if condition]
     # 'expression': The expression to evaluate for each item.
     # 'item': The current item in the iteration.
     # 'iterable': The collection you are iterating over.
