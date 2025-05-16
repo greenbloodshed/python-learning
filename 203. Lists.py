@@ -18,3 +18,7 @@ fruits.remove("banana")
 # Iteration
 for fruit in fruits:
     print(fruit)
+
+    # OR
+    for fruit in fruits:
+        print(f"I like {fruit).")
