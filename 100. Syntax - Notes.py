@@ -86,3 +86,21 @@ for number in range(1, 10):
         if number == 5:
             continue # Skip to the next iteration
         print(number)
+
+
+#----------------------------------------------------------------------------------------------------------------------------------
+# Arithmetic Operators
+''' Operator            |      Name            |           Example '''
+
+    +                          Addition                    x + y
+    -                          Subtraction             	   x - y
+    *                          Multiplication              x * y
+    /                          Division                    x / y
+    %                          Modulus                     x % y
+    **                         Exponentiation              x ** y
+    //                         Floor division              x // y
+#----------------------------------------------------------------------------------------------------------------------------------
+
+''' In computing and mathematics, the modulo operation returns the remainder or signed remainder of a division, after one number is divided by another, the latter being called the modulus of the operation.
+    E.g., "5 % 2" evaluates to 1, because 5 divided by 2 has a quotient of 2 and a remainder of 1. '''
+
