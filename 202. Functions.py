@@ -1,4 +1,7 @@
+#==============================================================================================================
 # Functions
+#==============================================================================================================
+
 # A function in Python is defined using the def keyword, followed by a name, parentheses (), and a colon :. The indented block of code following the colon is the body of the function, where you define what the function does.
 
 # Defining a function: 'def'
