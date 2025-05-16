@@ -47,11 +47,11 @@ def calculate_area(base, height):
 area = calculate_area(10, 5)
 print(f"The area of the triable is: {area}")
 
-''' Understanding the Function
-Function Definition: The def keyword starts the definition of the function, followed by the function name (calculate_area) and the parameters it takes (base and height) enclosed in parentheses.
+# Understanding the Function
+# Function Definition: The def keyword starts the definition of the function, followed by the function name (calculate_area) and the parameters it takes (base and height) enclosed in parentheses.
 
-Calculating the Area: Inside the function, the area is calculated using the formula 0.5 * base * height and stored in a local variable named area.
+# Calculating the Area: Inside the function, the area is calculated using the formula 0.5 * base * height and stored in a local variable named area.
 
-Returning the Result: The return statement is used to return the calculated area back to the caller.
+# Returning the Result: The return statement is used to return the calculated area back to the caller.
 
-Calling the Function: To use this function, you call it with the base and height as arguments, store the result it returns in a variable (area in this case), and then print or use the result as needed. '''
+# Calling the Function: To use this function, you call it with the base and height as arguments, store the result it returns in a variable (area in this case), and then print or use the result as needed. '''
