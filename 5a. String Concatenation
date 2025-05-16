@@ -1,0 +1,8 @@
+# String concatenation
+# You can combine strings and variables by using the + operator.
+
+first_name = "John"
+last_name = "Doe"
+full_name = first_name + " " + last_name
+
+print(full_name)
