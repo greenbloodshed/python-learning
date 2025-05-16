@@ -1,5 +1,5 @@
 #==============================================================================================================
-# Conditional statement
+# Conditional statement (if, then, else, elif)
 #==============================================================================================================
 
 ''' This code checks whether or not a number is even. It gets a number from user input and stores it as the variable 'number', and converts the string to an integer.
