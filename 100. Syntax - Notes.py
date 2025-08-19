@@ -106,3 +106,4 @@ for number in range(1, 10):
 ''' In computing and mathematics, the modulo operation returns the remainder or signed remainder of a division, after one number is divided by another, the latter being called the modulus of the operation.
     E.g., "5 % 2" evaluates to 1, because 5 divided by 2 has a quotient of 2 and a remainder of 1. '''
 
+# For a full list of Operators, reference: https://www.w3schools.com/python/python_operators.asp
