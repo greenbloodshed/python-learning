@@ -1,3 +1,5 @@
+# ***** READ README.MD IN THE REPO FILES // READ README.MD IN THE REPO FILES *****
+
 #==================================================================================================================================================================================================================================================
 # Here are some notes I took on Syntax in the beginning.
 # OH! Another good reference, which I use, was made by one of my favorite podcasters, Jack Rhysider, of DarkNet Diaries. You can find his cheat sheet here: https://www.tunnelsup.com/python-cheat-sheet/ , and I highly recommend Jack's podcast.
